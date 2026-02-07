@@ -15,13 +15,3 @@
 ## 常见问题QA
 
 * [白名单验证邮箱没有收到](chang-jian-wen-ti-qa/bai-ming-dan-yan-zheng-you-xiang-mei-you-shou-dao.md)
-* [Editor](chang-jian-wen-ti-qa/editor.md)
-* [Markdown](chang-jian-wen-ti-qa/markdown.md)
-* [Images & media](chang-jian-wen-ti-qa/images-and-media.md)
-* [Interactive blocks](chang-jian-wen-ti-qa/interactive-blocks.md)
-* [OpenAPI](chang-jian-wen-ti-qa/openapi.md)
-* [Integrations](chang-jian-wen-ti-qa/integrations.md)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)
