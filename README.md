@@ -14,7 +14,7 @@ coverY: -262.9263157894737
 * [<mark style="color:$info;">**社区群链接和规则**</mark>](/broken/pages/Zvukm7MAGL6ooitMTmpY)
 * [<mark style="color:$info;">**进入服务器教程**</mark>](/broken/pages/rmOTHHxzd5WsAgbfdyJf)
 * <mark style="color:red;">**服务器教程**</mark>
-* <mark style="color:red;">**常见的问答FQA**</mark>
+* <mark style="color:$info;">**常见的问答FQA**</mark>
 
 ### 快速导航
 
